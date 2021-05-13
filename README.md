@@ -8,7 +8,8 @@
 - (familiar) C#
 - (beginner) Rust, very interested
 - (beginner) Python
-#### Projects
+
+#### Projects:
 - Video games (gameplay/networking/graphics)
   - (familiar) Unity
 - Software applications
@@ -16,3 +17,7 @@
 - Documentation
 - Mentoring
 - Quality assurance
+
+#### Contact me:
+- Linkedin: [ngontjar](https://www.linkedin.com/in/ngontjar/)
+- Email: niko.gontjarow@gmail.com

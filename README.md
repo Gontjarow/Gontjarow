@@ -14,6 +14,7 @@
   - (familiar) Unity
 - Software applications
 - Embedded systems
+- Mobile platforms (Android/iOS)
 - Documentation
 - Mentoring
 - Quality assurance

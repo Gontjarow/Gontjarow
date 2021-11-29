@@ -1,5 +1,5 @@
 ### Current interests:
-#### Languages
+#### Languages:
 - (native) Finnish
 - (fluent) English
 - (fluent) C
@@ -15,7 +15,7 @@
   - (familiar) Unity
 - Software applications
 - Embedded systems
-- Mobile platforms (Android/iOS)
+- Mobile platforms (mainly Android phones)
 - Documentation
 - Mentoring
 - Quality assurance

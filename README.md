@@ -6,6 +6,7 @@
 - (fluent) Linden Scripting Language
 - (familiar) C++, very interested
 - (familiar) C#
+- (familiar) PHP
 - (beginner) Rust, very interested
 - (beginner) Python
 

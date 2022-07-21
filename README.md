@@ -3,10 +3,10 @@
 - (native) Finnish
 - (fluent) English
 - (fluent) C
+- (fluent) PHP, Magento 2
 - (fluent) Linden Scripting Language
 - (familiar) C++, very interested
 - (familiar) C#
-- (familiar) PHP
 - (beginner) Rust, very interested
 - (beginner) Python
 
@@ -15,7 +15,7 @@
   - (familiar) Unity
 - Software applications
 - Embedded systems
-- Mobile platforms (mainly Android phones)
+- Mobile platforms (Android)
 - Documentation
 - Mentoring
 - Quality assurance
